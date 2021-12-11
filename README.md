@@ -34,8 +34,8 @@ def gcd():
 ```
 
 ## Output:
-![gcd of two number](gcd.png)
-![OUTPUT](Ex04.PNG)
+![gcd of two number](gcd.PNG)
+![OUTPUT](Ex04.png)
 
 ## Result:
 Thus the program to find the GCD of two numbers is written and verified using python programming.
